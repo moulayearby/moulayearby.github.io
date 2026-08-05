@@ -1,0 +1,23 @@
+COMMENT AJOUTER TES PHOTOS DE PUBLICATIONS (OPTIONNEL)
+========================================================
+
+Ta photo de profil (profile-photo.jpg) est déjà intégrée au site.
+
+Si tu veux illustrer les 5 publications avec des photos, ajoute des fichiers
+portant EXACTEMENT ces noms, à la racine du dépôt (au même niveau que index.html) :
+
+  pub-1.jpg  → "Réinventer l'État de droit dans un Sahel multipolaire"
+  pub-2.jpg  → "La justice de la brousse — souveraineté judiciaire inachevée"
+  pub-3.jpg  → "L'accès à la justice centré sur les personnes"
+  pub-4.jpg  → "Cartels et jihad en Afrique de l'Ouest"
+  pub-5.jpg  → "Le pavillon malien"
+
+Format conseillé : paysage (16:9 ou proche), l'image sera recadrée automatiquement.
+
+TANT QU'AUCUNE PHOTO N'EST AJOUTÉE :
+Le site affiche un repli élégant (numéro "01" à "05") à la place — rien ne casse.
+
+POUR LES UPLOADER SUR GITHUB :
+Simplement "Add file → Upload files", sélectionne les fichiers un par un ou
+plusieurs à la fois — comme les autres fichiers du site, à la racine du dépôt.
+Pas besoin de dossier.
